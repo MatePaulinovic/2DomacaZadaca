@@ -1,0 +1,5 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

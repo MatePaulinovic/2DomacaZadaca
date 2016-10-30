@@ -1,0 +1,10 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\Interfaces.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\Models.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\Interfaces.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\ConsoleApplication1\bin\Debug\Models.pdb

@@ -1,0 +1,5 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe.config
+E:\FAKS\RAUJC\DrugaDomacaZadaca\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\FactorialDigitSum\bin\Debug\FactorialDigitSum.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\FactorialDigitSum\obj\Debug\FactorialDigitSum.exe
+E:\FAKS\RAUJC\DrugaDomacaZadaca\FactorialDigitSum\obj\Debug\FactorialDigitSum.pdb

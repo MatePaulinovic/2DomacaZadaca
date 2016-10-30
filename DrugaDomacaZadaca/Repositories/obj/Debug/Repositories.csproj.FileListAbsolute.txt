@@ -1,0 +1,9 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Repositories.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Repositories.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Interfaces.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Models.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Interfaces.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\bin\Debug\Models.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\obj\Debug\Repositories.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Repositories\obj\Debug\Repositories.pdb

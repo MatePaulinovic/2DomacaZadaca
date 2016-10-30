@@ -1,0 +1,12 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\RepositoriesTests.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\RepositoriesTests.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Interfaces.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Models.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Repositories.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Repositories.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Interfaces.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\bin\Debug\Models.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\obj\Debug\RepositoriesTests.csprojResolveAssemblyReference.cache
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\obj\Debug\RepositoriesTests.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\RepositoriesTests\obj\Debug\RepositoriesTests.pdb

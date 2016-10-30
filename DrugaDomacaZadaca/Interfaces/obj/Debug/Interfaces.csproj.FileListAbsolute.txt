@@ -1,0 +1,7 @@
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\bin\Debug\Interfaces.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\bin\Debug\Interfaces.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\bin\Debug\Models.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\bin\Debug\Models.pdb
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\obj\Debug\Interfaces.dll
+E:\FAKS\RAUJC\DrugaDomacaZadaca\Interfaces\obj\Debug\Interfaces.pdb
